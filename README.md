@@ -1,2 +1,2 @@
 # Análisis de datos
-## Proyecto Final
+## Proyecto Final Ahorcado
